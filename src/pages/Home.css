@@ -1,0 +1,7 @@
+.home {
+    width: 100%;
+    height: 100vh;
+    /* background-image: url('https://simulateur.simuleo.com/images/samples/plgnd-sample-170.jpg'); */
+    background-image: url('https://simulateur.simuleo.com/images/samples/plgnd-sample-178.jpg');
+    background-size: cover;
+}

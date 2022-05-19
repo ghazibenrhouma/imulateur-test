@@ -1,0 +1,12 @@
+.App {
+  position: relative;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .sample-canvas {
+    height: 1000px;
+    padding-left: 100px;
+    padding-top: 50px;
+  }
+
