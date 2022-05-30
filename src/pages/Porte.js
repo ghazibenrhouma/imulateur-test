@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./porte.css";
 import { fabric } from "fabric";
 import { FabricJSCanvas, useFabricJSEditor } from "fabricjs-react";
 
